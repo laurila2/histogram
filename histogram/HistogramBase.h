@@ -1,5 +1,3 @@
-// ----------------- HistogramBase.h ---------------
-
 #ifndef HISTOGRAMBASE_H
 #define HISTOGRAMBASE_H
 

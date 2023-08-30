@@ -6,7 +6,6 @@
 namespace Hist {
 
     Histogram::Histogram(std::unique_ptr<Logger> logger) : HistogramBase(std::move(logger)) {}
-    //Histogram::Histogram(std::unique_ptr<Logger> logger)
 
     Histogram::~Histogram() {}
 
